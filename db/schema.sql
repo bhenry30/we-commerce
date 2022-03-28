@@ -1,0 +1,6 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS wecommerce_db;
+
+-- CREATE DATABASE
+CREATE DATABASE wecommerce_db;
+
